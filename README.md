@@ -1,4 +1,4 @@
-# CamPhish
+# CamPhish (I am not the author of this tool)
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
 ![cheese](https://techchip.net/wp-content/uploads/2020/04/camphish.jpg)
 
